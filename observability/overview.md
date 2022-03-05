@@ -16,3 +16,9 @@ The following Sources are supported.
 Service URL
 
 {% embed url="https://observability.dtz.rocks" %}
+
+## Web UI
+
+![](<../.gitbook/assets/Screen Shot 2022-03-05 at 21.11.20.png>)
+
+![](<../.gitbook/assets/Screen Shot 2022-03-05 at 21.08.50.png>)

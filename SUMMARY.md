@@ -2,6 +2,11 @@
 
 * [Overview](README.md)
 
+## Flows
+
+* [Overview](flows/overview.md)
+* [RSS 2 Email](flows/rss-2-email.md)
+
 ## Identity
 
 * [Overview](identity/overview.md)

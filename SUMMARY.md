@@ -16,6 +16,7 @@
 
 * [Overview](observability/overview.md)
 * [Logs](observability/logs/README.md)
+  * [Attributes](observability/logs/attributes.md)
   * [Serverity](observability/logs/serverity.md)
 * [Sources](observability/sources/README.md)
   * [OpenTelementry](observability/sources/opentelementry.md)

@@ -1,6 +1,6 @@
 # Google Logging
 
-Google support log forwarding through Log Routers. You can configure a router to forward all logs into a Pub/Sub Topic. A push subcription then forward the log entry to DTZ.
+Google supports log forwarding through Log Routers. You can configure a router to forward all logs into a Pub/Sub Topic. A push subcription then forward the log entry to DTZ.
 
 To configure the Push endpoint you can use the following endpoint.
 

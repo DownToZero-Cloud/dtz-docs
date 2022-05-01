@@ -8,10 +8,11 @@ Provides observability features like working with
 
 The following Sources are supported.
 
-| Source              | Traces |         Logs         |    Metrics    |
-| ------------------- | :----: | :------------------: | :-----------: |
-| OpenTelemetry       |   :x:  | :white\_check\_mark: | :interrobang: |
-| Google (via PubSub) |   :x:  | :white\_check\_mark: |      :x:      |
+| Source               | Traces |         Logs         |    Metrics    |
+| -------------------- | :----: | :------------------: | :-----------: |
+| OpenTelemetry        |   :x:  | :white\_check\_mark: | :interrobang: |
+| Google (via PubSub)  |   :x:  | :white\_check\_mark: |      :x:      |
+| Stripe (via Webhook) |   :x:  | :white\_check\_mark: |      :x:      |
 
 Service URL
 

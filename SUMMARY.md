@@ -21,3 +21,4 @@
 * [Sources](observability/sources/README.md)
   * [OpenTelementry](observability/sources/opentelementry.md)
   * [Google Logging](observability/sources/google-logging.md)
+  * [Stripe](observability/sources/stripe.md)

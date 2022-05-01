@@ -18,3 +18,8 @@ Some attributes are commonly defined throughout various sources.
 * http.verb
 * http.status
 * http.version
+
+## Stripe
+
+* stripe.event.type
+* stripe.event.id

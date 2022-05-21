@@ -4,6 +4,10 @@ Any client can define an arbitrary set of attributes for its logs.
 
 Some attributes are commonly defined throughout various sources.
 
+## GCP
+
+* gcp.resource.type
+
 ## Kubernetes
 
 * k8s.namespace.name

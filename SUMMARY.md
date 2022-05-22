@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Overview](README.md)
+* [Context](context.md)
 
 ## Flows
 

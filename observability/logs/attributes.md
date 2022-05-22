@@ -27,3 +27,18 @@ Some attributes are commonly defined throughout various sources.
 
 * stripe.event.type
 * stripe.event.id
+* stripe.charge.amount
+* stripe.charge.amount\_refunded
+* stripe.charge.captured
+* stripe.charge.currency
+* stripe.charge.description
+* stripe.charge.disputed
+* stripe.charge.failure\_code
+* stripe.charge.failure\_message
+* stripe.charge.paid
+* stripe.charge.refunded
+* stripe.payment\_intent.id
+* stripe.payment\_intent.amount
+* stripe.payment\_intent.currency
+* stripe.payment\_intent.status
+

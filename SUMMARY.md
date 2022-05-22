@@ -2,6 +2,7 @@
 
 * [Overview](README.md)
 * [Context](context.md)
+* [Services](services.md)
 
 ## Flows
 

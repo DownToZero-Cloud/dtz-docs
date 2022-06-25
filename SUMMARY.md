@@ -21,6 +21,6 @@
   * [Attributes](observability/logs/attributes.md)
   * [Serverity](observability/logs/serverity.md)
 * [Sources](observability/sources/README.md)
-  * [OpenTelementry](observability/sources/opentelementry.md)
+  * [OpenTelemetry](observability/sources/opentelemetry.md)
   * [Google Logging](observability/sources/google-logging.md)
   * [Stripe](observability/sources/stripe.md)
